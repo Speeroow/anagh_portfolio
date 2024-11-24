@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hi, I'm Anagh, a graphic designer who believes that design is not just about creating beautiful visuals, but also about solving problems
+            Hi, I am Anagh, a graphic designer who believes that design is not just about creating beautiful visuals, but also about solving problems
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
